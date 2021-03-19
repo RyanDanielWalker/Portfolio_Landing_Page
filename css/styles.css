@@ -15,6 +15,7 @@ h2 {
 
 .golf{
   border: solid black 3px;
+  padding: 2px;
   margin:auto;
   width:95%;
   height:auto;
@@ -54,7 +55,6 @@ h5 {
   text-decoration: underline;
 }
 
-
 a:link {
   color: black;
 }
@@ -69,4 +69,8 @@ a:hover {
 
 a:active {
   color: black;
+}
+
+.first{
+  font-weight: bolder;
 }
