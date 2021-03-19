@@ -1,90 +1,84 @@
 body {
-  font-family:Arial, Helvetica;
-  font-family:serif;
+  font-family: Arial, Helvetica;
+  font-family: serif;
 }
-
 h1 {
   text-align: center;
   font-size: 5em;
 }
-
+.hello{
+  margin-left: 1.5vw;
+}
+.p1{
+text-indent: 3vw;
+}
 h2 {
   text-align: center;
   text-decoration: underline;
 }
-
 .golf{
   border: solid black 3px;
   padding: 2px;
-  margin:auto;
-  width:95%;
-  height:auto;
+  margin: auto;
+  width: 95%;
+  height: auto;
   margin-bottom: 8px;
-  display:block;
+  display: block;
   box-sizing: border-box;
 }
-
 .gq{
   border: solid black 3px;
-  padding:2px;
-  width:25%;
-  height:auto;
-  float:left;
+  padding: 2px;
+  width: 25%;
+  height: auto;
+  float: left;
   margin-left: 1vw;
-  display:block;
+  display: block;
   box-sizing: border-box;
 }
 .molly{
   border: solid black 3px;
   padding: 2px;
-  margin:auto;
-  width:25%;
-  height:auto;
-  display:block;
+  margin: auto;
+  width: 25%;
+  height: auto;
+  display: block;
   box-sizing: border-box;
 }
-
 .marty{
   border: solid black 3px;
-  padding:2px;
-  width:25%;
-  height:auto;
-  float:right;
-  margin-right:1vw;
-  display:block;
+  padding: 2px;
+  width: 25%;
+  height: auto;
+  float: right;
+  margin-right: 1vw;
+  display: block;
   box-sizing: border-box;
 }
-
 h5 {
   text-align: center;
   text-decoration: underline;
 }
-
 a:link {
   color: black;
 }
-
 a:visited {
   color: grey;
 }
-
 a:hover {
   color: salmon;
 }
-
 a:active {
   color: black;
 }
-
 .first{
   font-weight: bolder;
 }
-
 .tape{
   border: solid black 3px;
-  padding:2px;
+  padding: 2px;
   margin: auto;
-  width:75%;
+  width: 75%;
   margin-bottom: 15px;
   display: block;
   box-sizing: border-box;

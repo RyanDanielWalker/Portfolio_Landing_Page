@@ -18,7 +18,7 @@ A webpage to showcase the skills, talents, and interests of Ryan Walker.
 
 This webpage will give you a deeper insight into just a handful of the things that make Ryan Walker the human that he is. 
 
-## Requirments
+## Requirements
 ---
 
 All you will need is a working internet connection and a web browser. 
@@ -38,7 +38,7 @@ Copyright (c) 2021 Ryan Walker
 
 ## Contact Information
 ---
-
+[Ryandanielwalker@gmail.com](mailto:ryandanielwalker@gmail.com)
 
 
 
