@@ -55,5 +55,18 @@ h5 {
 }
 
 
+a:link {
+  color: black;
+}
 
-  
+a:visited {
+  color: grey;
+}
+
+a:hover {
+  color: salmon;
+}
+
+a:active {
+  color: black;
+}
