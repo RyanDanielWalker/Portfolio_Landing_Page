@@ -13,3 +13,29 @@ h2 {
   text-decoration: underline;
 }
 
+.gq{
+  border: solid black 3px;
+  width:25%;
+  height:auto;
+  float:left;
+  margin: 0px 5px 5px 5px;
+  display:block;
+}
+
+.marty{
+  border: solid black 3px;
+  width:25%;
+  height:auto;
+  float:right;
+  margin: 0px 5px 5px 5px;
+  display:block;
+}
+
+.molly{
+  border: solid black 3px;
+  margin:auto;
+  width:25%;
+  height:auto;
+  display:block;
+  
+}
